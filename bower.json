@@ -13,22 +13,14 @@
             "homepage": "https://github.com/tomgrv"
         }
     ],
+    "dependencies": {
+        "jquery": ">= 1.9.0"
+    },
     "main": "src/v-carousel.js",
     "keywords": [
         "scroll",
         "scrolling",
         "animation",
-        "sticky",
-        "pin",
-        "fixed",
-        "scrollbar",
-        "scrub",
-        "sync",
-        "position",
-        "progress",
-        "parallax",
-        "events",
-        "classes",
         "jquery-plugin",
         "ecosystem:jquery"
     ],
@@ -44,8 +36,7 @@
         "gulpfile.js",
         "CONTRIBUTING.md",
         "CHANGELOG.md",
-        "package.json",
-        "ScrollMagic.jquery.json"
+        "package.json"
     ],
     "license": [
         "MIT",
