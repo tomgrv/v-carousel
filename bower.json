@@ -1,0 +1,54 @@
+{
+    "name": "v-carousel",
+    "version": "1.0.0",
+    "description": "Vertical text only carousel",
+    "homepage": "https://github.com/tomgrv/v-carousel",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tomgrv/v-carousel.git"
+    },
+    "authors": [
+        {
+            "name": "Thomas GERVAIS",
+            "homepage": "https://github.com/tomgrv"
+        }
+    ],
+    "main": "src/v-carousel.js",
+    "keywords": [
+        "scroll",
+        "scrolling",
+        "animation",
+        "sticky",
+        "pin",
+        "fixed",
+        "scrollbar",
+        "scrub",
+        "sync",
+        "position",
+        "progress",
+        "parallax",
+        "events",
+        "classes",
+        "jquery-plugin",
+        "ecosystem:jquery"
+    ],
+    "ignore": [
+        "**/.*",
+        "css",
+        "dev",
+        "docs",
+        "examples",
+        "img",
+        "js",
+        "index.html",
+        "gulpfile.js",
+        "CONTRIBUTING.md",
+        "CHANGELOG.md",
+        "package.json",
+        "ScrollMagic.jquery.json"
+    ],
+    "license": [
+        "MIT",
+        "GPL-3.0+"
+    ]
+}
